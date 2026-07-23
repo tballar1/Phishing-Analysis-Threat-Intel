@@ -17,7 +17,8 @@ The raw artifact was processed through **CyberChef** to cleanly isolate indicato
 - **Extracted Delivery Timestamp:** Fri, 26 Jun 2026 09:16:28
 
 ### CyberChef Processing Dashboard
-<img width="1920" height="1062" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/9a0f116f-8092-4e84-ad60-e3ef33f13799" />
+<img width="1920" height="1069" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/7fa153f3-d714-41f5-9060-c7e8bd455cf8" />
+
 
 
 
