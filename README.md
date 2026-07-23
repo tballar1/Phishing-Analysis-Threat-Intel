@@ -33,8 +33,7 @@ The extracted origin IP address (`136.147.178.133`) was queried across open-sour
 - **Analysis:** The infrastructure belongs to an enterprise-scale automated outbound mailing cluster, indicating high-volume tracking delivery.
 
 ### B. VirusTotal Global Scanner
-- **Security Vendor Detection Score:** [Paste the fraction shown on VirusTotal, e.g., 0/85 or 2/90]
-- **Analysis:** [0/91]
+- **Security Vendor Detection Score:** [0/91]
 
 <img width="1920" height="1092" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/489cdad6-a685-4c7c-83c1-edb69b7dcfde" />
 
